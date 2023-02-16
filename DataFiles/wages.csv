@@ -1,0 +1,51 @@
+State,HourlyMinimumWage,AnnualLivingWage,StateAbbrev
+Alabama,7.25,49826,AL
+Alaska,9.84,60815,AK
+Arizona,10.5,54891,AZ
+Arkansas,8.5,48780,AR
+California,11,66019,CA
+Colorado,10.2,60767,CO
+Connecticut,10.1,63855,CT
+Delaware,8.25,57918,DE
+Florida,8.25,55680,FL
+Georgia,7.25,53537,GA
+Hawaii,10.1,60784,HI
+Idaho,7.25,53231,ID
+Illinois,8.25,58185,IL
+Indiana,7.25,50774,IN
+Iowa,7.25,52066,IA
+Kansas,7.25,52123,KS
+Kentucky,7.25,50759,KY
+Louisiana,7.25,52294,LA
+Maine,10,54399,ME
+Maryland,9.25,64765,MD
+Massachusetts,11,64929,MA
+Michigan,9.25,51752,MI
+Minnesota,9.25,51752,MN
+Mississippi,7.25,47881,MS
+Missouri,7.85,52488,MO
+Montana,8.3,54709,MT
+Nebraska,9,52912,NE
+Nevada,8.25,55113,NV
+New Hampshire,7.25,57197,NH
+New Jersey,8.6,63400,NJ
+New Mexico,7.5,55357,NM
+New York,10.4,65820,NY
+North Carolina,7.25,53120,NC
+North Dakota,7.25,52122,ND
+Ohio,8.3,50668,OH
+Oklahoma,7.25,51398,OK
+Oregon,10.25,57281,OR
+Pennsylvania,7.25,52787,PA
+Rhode Island,10.1,58393,RI
+South Carolina,7.25,50732,SC
+South Dakota,8.85,48817,SD
+Tennessee,7.25,49027,TN
+Texas,7.25,51756,TX
+Utah,7.25,53283,UT
+Vermont,10.5,57955,VT
+Virginia,7.25,61817,VA
+Washington,11.5,59130,WA
+West Virginia,8.75,49502,WV
+Wisconsin,7.25,54845,WI
+Wyoming,7.25,53108,WY
